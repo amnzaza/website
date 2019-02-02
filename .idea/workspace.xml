@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b87e717-a85c-4a6d-892c-e53a3d4926fc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Kards10/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="1085" lean-forward="true" selection-start-line="1085" selection-end-line="1085" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="micons.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kards10/css/micons/micons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11424" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Kards10/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="2115" column="10" selection-start-line="2115" selection-start-column="10" selection-end-line="2115" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FF0077</find>
+      <find>about</find>
+      <find>abo</find>
+      <find>#</find>
+      <find>button</find>
+      <find>progress</find>
+      <find>skill-bars</find>
+      <find>owl-page</find>
+      <find>cta</find>
+      <find>h4::aft</find>
+      <find>.button</find>
+      <find>overlay</find>
+      <find>button str</find>
+      <find>ico</find>
+      <find>kards</find>
+      <find>foot</find>
+      <find>logo</find>
+      <find>.button.stroke:ho</find>
+      <find>submitfi</find>
+      <find>submit</find>
+      <find>stee</find>
+      <find>validat</find>
+      <find>websi</find>
+      <find>siteOw</find>
+      <find>graduation-cap</find>
+      <find>services</find>
+      <find>serv</find>
+      <find>glass</find>
+      <find>ice</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>dodgerblue</replace>
+      <replace>steelblue</replace>
+      <replace>briefcase</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Kards10/css/base.css" />
+        <option value="$PROJECT_DIR$/Kards10/js/main.js" />
+        <option value="$PROJECT_DIR$/Kards10/inc/sendEmail.php" />
+        <option value="$PROJECT_DIR$/Kards10/css/main.css" />
+        <option value="$PROJECT_DIR$/Kards10/css/font-awesome/css/font-awesome.css" />
+        <option value="$PROJECT_DIR$/Kards10/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2335" />
+    <option name="y" value="-16" />
+    <option name="width" value="974" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="micons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="0x&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images" />
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10" />
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images\portfolio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b87e717-a85c-4a6d-892c-e53a3d4926fc" name="Default" comment="" />
+      <created>1549037224903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549037224903</updated>
+      <workItem from="1549037226177" duration="27067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27067000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.33223322" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="13627" column="13" selection-start-line="13627" selection-start-column="13" selection-end-line="13627" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1658">
+          <caret line="214" column="23" selection-start-line="214" selection-start-column="22" selection-end-line="214" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/images/sample-image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/images/profile-pic.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/inc/sendEmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="238" column="35" lean-forward="true" selection-start-line="238" selection-start-column="35" selection-end-line="238" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lll/Kards10/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="2096" selection-start-line="2096" selection-end-line="2105" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="2115" column="10" selection-start-line="2115" selection-start-column="10" selection-end-line="2115" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/css/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/images/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/images/intro-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/css/micons/micons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kards10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="1085" lean-forward="true" selection-start-line="1085" selection-end-line="1085" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
