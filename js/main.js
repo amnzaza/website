@@ -231,8 +231,7 @@
 
 				type: "POST",
 				url: "../inc/sendEmail.php",
-				data: $(form).serialize(),
-				contentType: 'application/json',
+				data: $(form).serialize()
 				beforeSend: function () {
 
 					sLoader.fadeIn();
