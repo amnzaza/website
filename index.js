@@ -25,9 +25,9 @@ app.get('/', (req, res) => {
 });
 
 app.post('/inc/sendEmail.php', (req, res) => {
-	execPhp('./inc/sendEmail.php', function(error, php, outprint){
+	execPhp('./inc/sendEmail.php', "",function(error, php, outprint){
 		if(error){
-			res.send(error)
+			res.send(outprint)
 		}
 	});
 });

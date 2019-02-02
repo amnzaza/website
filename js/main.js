@@ -237,7 +237,7 @@
 					sLoader.fadeIn();
 
 				},
-				success: function (msg) {
+				success: function (msg,ll,gg) {
 
 					// Message was sent
 					if (msg == 'OK') {
@@ -250,6 +250,8 @@
 					else {
 						sLoader.fadeOut();
 						console.log(msg);
+						console.log(ll);
+						console.log(gg);
 						$('#message-warning').html(msg);
 						$('#message-warning').fadeIn();
 					}

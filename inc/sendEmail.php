@@ -3,8 +3,8 @@
 // Replace this with your own email address
 $siteOwnersEmail = 'ahmed.mn.zaza@gmail.com.com';
 
+return $_POST;
 
-if($_POST) {
 
    $name = trim(stripslashes($_POST['contactName']));
    $email = trim(stripslashes($_POST['contactEmail']));
@@ -64,6 +64,6 @@ if($_POST) {
 
 	} # end if - there was a validation error
 
-}
+
 
 ?>
