@@ -249,6 +249,7 @@
 					// There was an error
 					else {
 						sLoader.fadeOut();
+						console.log(msg);
 						$('#message-warning').html(msg);
 						$('#message-warning').fadeIn();
 					}
