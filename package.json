@@ -6,6 +6,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
+    "exec-php": "0.0.5",
     "express": "^4.16.4",
     "http": "0.0.0",
     "https": "^1.0.0",

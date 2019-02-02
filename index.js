@@ -5,7 +5,6 @@ const fs = require('fs');
 const cors = require('cors')
 const bodyParser = require('body-parser');
 
-
 const app = express();
 const jsonParser = bodyParser.json();
 const urlencodedParser = bodyParser.urlencoded({extended: true});
@@ -20,9 +19,6 @@ app.use('/images', express.static('images'));
 app.use('/inc', express.static('inc'));
 app.use('/js', express.static('js'));
 
-app.post('/inc/sendEmail.php', (req, res) => {
-	res.sendFile(__dirname);
-});
 
 app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
