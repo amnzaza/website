@@ -82,7 +82,7 @@ body {
  * -------------------------------------------------------------------
  */
 a, a:visited {
-	color: #000000;
+	color: mediumpurple;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -212,7 +212,7 @@ blockquote cite:before {
 	content: "\2014 \0020";
 }
 blockquote cite a, blockquote cite a:visited {
-	color: #888888;
+	color: mediumpurple;
 	border: none;
 }
 abbr {
@@ -353,7 +353,7 @@ th:last-child, td:last-child {
  * -------------------------------------------------------------------
  */
 button, .button {
-	margin-bottom: 1.2;
+	margin-bottom: 1.2rem;
 }
 fieldset {
 	margin-bottom: 1.5rem;
@@ -661,7 +661,7 @@ input[type="button"] {
 	padding: 0 3rem;
 	margin: 0 .3rem 1.2rem 0;
 	background: #d8d8d8;
-	color: white;
+	color: steelblue;
 	text-decoration: none;
 	cursor: pointer;
 	text-align: center;
@@ -1111,7 +1111,7 @@ header .logo {
 }
 header .logo a {
 	display: block;
-	margin: 0;
+	margin-left: 10px;
 	padding: 0;
 	border: none;
 	font: 0/0 a;
@@ -1412,8 +1412,12 @@ header .logo a {
 	margin: 0 20px;
 	padding: 0;
 }
-.intro-social li a, .intro-social li a:visited {
-	color: #FFFFFF;
+.intro-social li a{
+    color: white;
+}
+
+.intro-social li a:visited {
+	color: mediumpurple;
 }
 .intro-social li a:hover, .intro-social li a:focus {
 	color: steelblue;
@@ -2067,7 +2071,7 @@ header .logo a {
 	margin-left: -40px;
 }
 .section-ads h2 a, .section-ads h2 a:visited {
-	color: #313131;
+	color: mediumpurple;
 }
 .section-ads span {
 	color: #3F0D39;
@@ -2509,7 +2513,7 @@ footer {
 	font-family: "poppins-regular", sans-serif;
 }
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: mediumpurple;
 }
 footer a:hover, footer a:focus {
 	color: steelblue;
@@ -2523,7 +2527,7 @@ footer .social {
 footer .footer-social {
 	display: inline-block;
 	font-size: 2.1rem;
-	margin: 0;
+	margin: 0 15px 0 0;
 	padding: 0;
 	position: relative;
 	top: -.3rem;
@@ -2535,6 +2539,16 @@ footer .footer-social li {
 }
 footer .footer-social li a {
 	color: #FFFFFF;
+}
+
+footer .footer-social li a:visited {
+	color: mediumpurple;
+}
+footer .footer-social li a:hover, footer .footer-social li a:focus {
+    color: steelblue;
+}
+footer .copyright {
+	margin: 0 15px 0 0;
 }
 footer .copyright span {
 	display: inline-block;
@@ -2683,5 +2697,14 @@ button.stroke, .button.stroke {
 	border-left-color: rgb(92, 89, 85);
 	background-image: initial !important;
 	background-color: transparent !important;
+}
+
+.popup-modal {
+	background-image: initial;
+	background-color: rgb(35, 35, 37);
+}
+
+.popup-modal .categories {
+	color: rgba(229, 225, 216, 0.5);
 }
 /*# sourceMappingURL=main.css.map */
