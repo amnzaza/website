@@ -21,7 +21,7 @@ app.use('/inc', express.static('inc'));
 app.use('/js', express.static('js'));
 
 app.post('/inc/sendEmail.php', (req, res) => {
-	//res.sendFile(__dirname + '/index.html');
+	res.sendFile(__dirname);
 });
 
 app.get('/', (req, res) => {
