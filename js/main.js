@@ -255,7 +255,7 @@
 
 				},
 				error: function () {
-
+					console.log("here")
 					sLoader.fadeOut();
 					$('#message-warning').html("Something went wrong. Please try again.");
 					$('#message-warning').fadeIn();

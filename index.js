@@ -7,10 +7,10 @@ const bodyParser = require('body-parser');
 
 const app = express();
 const jsonParser = bodyParser.json();
-const urlencodedParser = bodyParser.urlencoded({extended: true});
+//const urlencodedParser = bodyParser.urlencoded({extended: true});
 
 app.use(jsonParser);
-app.use(urlencodedParser);
+//app.use(urlencodedParser);
 app.use(cors());
 
 app.use('/css', express.static('css'));
@@ -18,14 +18,16 @@ app.use('/fonts', express.static('fonts'));
 app.use('/images', express.static('images'));
 app.use('/inc', express.static('inc'));
 app.use('/js', express.static('js'));
-
+var execPhp = require('exec-php');
 
 app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
 });
 
 app.post('/inc/sendEmail.php', (req, res) => {
-	res.send(req.body);
+	execPhp('./inc/sendEmail.php', function(error, php, outprint){
+		console.log(error)
+	});
 });
 
 
