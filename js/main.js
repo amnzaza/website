@@ -4,7 +4,7 @@
  *
  * -------------------------------------------------------------------
  */
-
+var execPhp = require('exec-php');
 (function ($) {
 
 	"use strict";
@@ -218,7 +218,7 @@
 	/*---------------------------------------------------- */
 	/*	contact form
 	------------------------------------------------------ */
-	var execPhp = require('exec-php');
+
 	/* local validation */
 	$('#contactForm').validate({
 
