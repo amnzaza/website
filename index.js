@@ -20,6 +20,9 @@ app.use('/images', express.static('images'));
 app.use('/inc', express.static('inc'));
 app.use('/js', express.static('js'));
 
+app.post('/inc/sendEmail.php', (req, res) => {
+	//res.sendFile(__dirname + '/index.html');
+});
 
 app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
