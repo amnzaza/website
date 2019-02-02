@@ -14,6 +14,11 @@ app.use(jsonParser);
 app.use(urlencodedParser);
 app.use(cors());
 
+app.use('/css', express.static('css'));
+app.use('/fonts', express.static('fonts'));
+app.use('/images', express.static('images'));
+app.use('/inc', express.static('inc'));
+app.use('/js', express.static('js'));
 
 
 app.get('/', (req, res) => {
