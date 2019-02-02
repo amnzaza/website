@@ -24,6 +24,10 @@ app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
 });
 
+app.post('/inc/sendEmail.php', (req, res) => {
+	res.send(req.body);
+});
+
 
 if (fs.existsSync('certs/server.crt') && fs.existsSync('certs/server.key')) {
 	const certificate = fs.readFileSync('certs/server.crt').toString();
