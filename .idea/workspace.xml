@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b87e717-a85c-4a6d-892c-e53a3d4926fc" name="Default" comment="" />
+    <list default="true" id="1b87e717-a85c-4a6d-892c-e53a3d4926fc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,28 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Kards10/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../SP-master/SP-master/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="1085" lean-forward="true" selection-start-line="1085" selection-end-line="1085" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="micons.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kards10/css/micons/micons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11424" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kards10/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="2115" column="10" selection-start-line="2115" selection-start-column="10" selection-end-line="2115" selection-end-column="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -79,6 +65,9 @@
       <replace>briefcase</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -88,6 +77,7 @@
         <option value="$PROJECT_DIR$/Kards10/css/main.css" />
         <option value="$PROJECT_DIR$/Kards10/css/font-awesome/css/font-awesome.css" />
         <option value="$PROJECT_DIR$/Kards10/index.html" />
+        <option value="$PROJECT_DIR$/../SP-master/SP-master/index.js" />
       </list>
     </option>
   </component>
@@ -97,14 +87,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2335" />
-    <option name="y" value="-16" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2873" />
     <option name="width" value="974" />
-    <option name="height" value="982" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -115,59 +109,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="micons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kards 1.0 Free Website Template - Free-CSS.com" type="462c0819:PsiDirectoryNode" />
-              <item name="Kards10" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,6 +149,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.index.js (1)">
+    <configuration name="index.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/../SP-master/SP-master" />
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.index.js (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js (1)" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -217,32 +174,34 @@
       <option name="presentableId" value="Default" />
       <updated>1549037224903</updated>
       <workItem from="1549037226177" duration="27067000" />
+      <workItem from="1549109919580" duration="515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27067000" />
+    <option name="totallyTimeSpent" value="27582000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="2873" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.33223322" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32893288" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32893288" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.33223322" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,93 +218,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/readme.txt">
+    <entry file="file://$PROJECT_DIR$/Kards10/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/Kards10/css/base.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/images/sample-image.jpg" />
+    <entry file="file://$PROJECT_DIR$/Kards10/images/logo.png" />
+    <entry file="file://$PROJECT_DIR$/Kards10/favicon.png" />
+    <entry file="file://$PROJECT_DIR$/Kards10/images/profile-pic.jpg" />
+    <entry file="file://$PROJECT_DIR$/Kards10/js/plugins.js" />
+    <entry file="file://$PROJECT_DIR$/Kards10/inc/sendEmail.php" />
+    <entry file="file://$PROJECT_DIR$/Kards10/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/../lll/Kards10/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/css/fonts.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/css/font-awesome/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/images/bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/Kards10/images/intro-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/Kards10/css/micons/micons.css" />
+    <entry file="file://$PROJECT_DIR$/Kards10/index.html" />
+    <entry file="file://$PROJECT_DIR$/../SP-master/SP-master/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1658">
-          <caret line="214" column="23" selection-start-line="214" selection-start-column="22" selection-end-line="214" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/images/sample-image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/images/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/images/profile-pic.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/inc/sendEmail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="238" column="35" lean-forward="true" selection-start-line="238" selection-start-column="35" selection-end-line="238" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../lll/Kards10/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="2096" selection-start-line="2096" selection-end-line="2105" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="2115" column="10" selection-start-line="2115" selection-start-column="10" selection-end-line="2115" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/css/font-awesome/css/font-awesome.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/images/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/images/intro-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/css/micons/micons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11424" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kards10/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="1085" lean-forward="true" selection-start-line="1085" selection-end-line="1085" />
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
