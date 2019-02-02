@@ -2094,7 +2094,7 @@ header .logo a {
  *
  * ------------------------------------------------------------------- 
  */
-#services {
+#interests {
 	background: #313131 url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2104,6 +2104,7 @@ header .logo a {
 	color: white;
 	position: relative;
 	background-attachment: fixed;
+	min-height: 720px;
 }
 /*#services {*/
 	/*background: #313131 url(../images/bg.jpg) no-repeat center;*/
@@ -2115,7 +2116,7 @@ header .logo a {
 	/*color: white;*/
 	/*position: relative;*/
 /*}*/
-#services .overlay {
+#interests .overlay {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2125,17 +2126,17 @@ header .logo a {
 	opacity: .9;
 }
 
-#services .section-intro {
+#interests .section-intro {
 	margin-bottom: 1.8rem;
 }
 
-#services .section-intro h1 {
+#interests .section-intro h1 {
 	color: white;
 }
-#services .section-intro h5 {
+#interests .section-intro h5 {
 	color: steelblue;
 }
-#services .section-intro p {
+#interests .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
 }
 .services-content {
@@ -2645,7 +2646,7 @@ body {
 	background-color: rgb(35, 35, 37);
 }
 
-#services .overlay {
+#interests .overlay {
 	background-image: initial;
 	background-color: rgb(31, 31, 33);
 }
