@@ -24,6 +24,7 @@ app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
 });
 
+
 app.post('/inc/sendEmail.php', (req, res) => {
 	execPhp('./inc/sendEmail.php', "",function(error, php, outprint){
 		if(error){
