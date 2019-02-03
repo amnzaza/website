@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b87e717-a85c-4a6d-892c-e53a3d4926fc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/Resume_AhmadZaza.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resume_Final.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,17 +17,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="938" column="15" selection-start-line="938" selection-start-column="15" selection-end-line="938" selection-end-column="15" />
+            <state relative-caret-position="281">
+              <caret line="302" column="23" selection-start-line="302" selection-start-column="23" selection-end-line="302" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="249">
@@ -94,8 +95,8 @@
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -137,6 +138,11 @@
               <item name="website" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="website" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -152,15 +158,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\website\js" />
-      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\website\inc" />
       <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\website" />
       <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images" />
       <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10" />
       <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\website\js" />
+      <recent name="C:\Users\Ahmad M.N. Zaza\Desktop\Kards 1.0 Free Website Template - Free-CSS.com\Kards10\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -202,11 +209,12 @@
       <workItem from="1549037226177" duration="27067000" />
       <workItem from="1549109919580" duration="10901000" />
       <workItem from="1549123365949" duration="4903000" />
+      <workItem from="1549185194972" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42871000" />
+    <option name="totallyTimeSpent" value="42907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -238,6 +246,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15946">
+          <caret line="938" column="15" selection-start-line="938" selection-start-column="15" selection-end-line="938" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43248">
+          <caret line="2544" column="24" selection-start-line="2544" selection-start-column="24" selection-end-line="2544" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -306,17 +328,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="938" column="15" selection-start-line="938" selection-start-column="15" selection-end-line="938" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="2544" column="24" selection-start-line="2544" selection-start-column="24" selection-end-line="2544" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="302" column="23" selection-start-line="302" selection-start-column="23" selection-end-line="302" selection-end-column="23" />
         </state>
       </provider>
     </entry>
