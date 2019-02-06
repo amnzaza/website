@@ -14,6 +14,8 @@
 	------------------------------------------------------ */
 	$(window).load(function () {
 
+		$('#visitors').text()
+
 		// will first fade out the loading animation
 		$("#loader").fadeOut("slow", function () {
 

@@ -21,17 +21,34 @@ app.use('/js', express.static('js'));
 var execPhp = require('exec-php');
 
 app.get('/', (req, res) => {
+	fs.readFile('./inc/count.txt',function read(err, data) {
+		if (err) {
+			throw err;
+		}
+		content = JSON.parse(data);
+		count = content+1
+
+		console.log(count)
+		fs.writeFile("./inc/count.txt", count.toString(), function(err) {
+			if(err) {
+				return console.log(err);
+			}
+
+			console.log("The file was saved!");
+		});
+	});
+
 	res.sendFile(__dirname + '/index.html');
 });
 
 
-app.post('/inc/sendEmail.php', (req, res) => {
-	execPhp('./inc/sendEmail.php', "",function(error, php, outprint){
-		if(error){
-			res.send(outprint)
-		}
-	});
-});
+// app.post('/inc/sendEmail.php', (req, res) => {
+// 	execPhp('./inc/sendEmail.php', "",function(error, php, outprint){
+// 		if(error){
+// 			res.send(outprint)
+// 		}
+// 	});
+// });
 
 
 if (fs.existsSync('certs/server.crt') && fs.existsSync('certs/server.key')) {
