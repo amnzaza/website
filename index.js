@@ -18,19 +18,20 @@ app.use('/fonts', express.static('fonts'));
 app.use('/images', express.static('images'));
 app.use('/inc', express.static('inc'));
 app.use('/js', express.static('js'));
+app.use('/count', express.static('count'));
 var execPhp = require('exec-php');
 
 app.get('/', (req, res) => {
-	fs.readFile('./inc/count.txt',function read(err, data) {
+	fs.readFile('./count/count.txt', function read(err, data) {
 		if (err) {
 			throw err;
 		}
 		content = JSON.parse(data);
-		count = content+1
+		count = content + 1
 
 		console.log(count)
-		fs.writeFile("./inc/count.txt", count.toString(), function(err) {
-			if(err) {
+		fs.writeFile("./count/count.txt", count.toString(), function (err) {
+			if (err) {
 				return console.log(err);
 			}
 
@@ -41,6 +42,10 @@ app.get('/', (req, res) => {
 	res.sendFile(__dirname + '/index.html');
 });
 
+app.get('/count', (req, res) => {
+	console.log(__dirname);
+	res.sendFile(__dirname + '/count/count.txt');
+});
 
 // app.post('/inc/sendEmail.php', (req, res) => {
 // 	execPhp('./inc/sendEmail.php', "",function(error, php, outprint){

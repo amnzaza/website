@@ -14,7 +14,24 @@
 	------------------------------------------------------ */
 	$(window).load(function () {
 
-		$('#visitors').text()
+		$.ajax({
+
+			type: "GET",
+			url: "./count",
+			success: function (msg) {
+				console.log(msg)
+				// Message was sent
+				$('#visitors').text(msg);
+
+
+			},
+			error: function (e) {
+				console.log(e)
+
+			}
+
+		});
+
 
 		// will first fade out the loading animation
 		$("#loader").fadeOut("slow", function () {
