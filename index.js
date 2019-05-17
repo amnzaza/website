@@ -43,8 +43,8 @@ app.get('/', (req, res) => {
 });
 
 app.get('/count', (req, res) => {
-	console.log(__dirname);
 	res.sendFile(__dirname + '/count/count.txt');
+	console.log(req.header('x-forwarded-for') || req.connection.remoteAddress);
 });
 
 // app.post('/inc/sendEmail.php', (req, res) => {
